@@ -22,6 +22,8 @@ Users should be able to:
 - See hover and focus states for interactive elements
 
 ### Screenshot
+![image](https://github.com/ShireenGadru/product-preview-card/assets/49595391/216bd77b-d52c-44fa-9a24-24ea41a4f77d)
+![image](https://github.com/ShireenGadru/product-preview-card/assets/49595391/75a8f245-000d-4ccb-854c-118bb20a81f3)
 
 ### Links
 
